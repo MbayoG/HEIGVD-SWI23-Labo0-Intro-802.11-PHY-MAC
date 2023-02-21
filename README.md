@@ -1,6 +1,6 @@
 # Sécurité de réseaux sans fil
 
-# Laboratoire d'introduction 802.11
+# Laboratoire d'introduction 802.11 2023
 
 __Ce laboratoire n'a pas de rendu. Il ne sera pas noté. Vous pouvez travailler en équipes de 2 personnes.__
 
